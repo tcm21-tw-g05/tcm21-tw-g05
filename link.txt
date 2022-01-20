@@ -1,0 +1,2 @@
+LINK netlify :tcm21-tw-g05.netlify.app
+LINK github :https://github.com/tcm21-tw-g05/tcm21-tw-g05.git
